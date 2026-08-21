@@ -6,7 +6,7 @@ Can we predict heart disease risk early using patient health data?
 Trained Logistic Regression and Random Forest models on the UCI Heart 
 Disease dataset to classify patients as at-risk or not.
 ## Result
-Random Forest achieved ~85% accuracy on the test set.
+Random Forest achieved ~87% accuracy on the test set.
 ## Key Finding
 Chest pain type, max heart rate, and cholesterol were the strongest 
 predictors of heart disease risk.
